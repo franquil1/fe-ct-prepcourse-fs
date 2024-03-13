@@ -1,0 +1,23 @@
+.botonrojo {
+    background-color: brown;
+    color: aqua;
+    font-weight: 100;
+}
+
+.botonazul {
+    background-color: skyblue;
+    color: antiquewhite;
+    font-weight: 100;
+}
+
+.botonazul:hover{
+    background-color: antiquewhite;
+    color: skyblue;
+}
+
+
+.botonrojo:hover{
+    background-color: aqua;
+    color: brown;
+    font-weight: 100;
+}

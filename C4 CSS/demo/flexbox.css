@@ -1,0 +1,23 @@
+.contenedorpadre div {
+    background-color: violet;
+    width: 1000px;
+    margin: 30px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 75px;
+    border: 2px solid orange;
+}
+
+.contenedorpadre {
+    display: flex;
+    background-color: bisque;
+    padding: 20px;
+    border: 2px solid black;
+
+    
+}
+
+
+
+
+ 
